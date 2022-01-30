@@ -2,12 +2,12 @@ package pac;
 
 import org.testng.annotations.Test;
 
-public class SampleTest {
+public class DemoTest2 {
 	@Test
 	public void add()
 	{
 		System.out.println("hey");
-		System.out.println("rekha");
+		System.out.println("rangaswamy");
 	}
 
 }
